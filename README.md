@@ -6,16 +6,16 @@
 
 ## Dependencies
 
- react
- react-dom
- react-scripts
- web vitals
- jest
+ - react
+ - react-dom
+ - react-scripts
+ - web vitals
+ - jest
 
 ## runing this project
 
- clone this repo by `git clone https://github.com/TuyizeeAnastase/betahill.git`
- install all packeges(dependency) by `npm install`
- run the project by `npm run start`
+ - clone this repo by `git clone https://github.com/TuyizeeAnastase/betahill.git`
+ - install all packeges(dependency) by `npm install`
+ - run the project by `npm run start`
 
 ## Deployment
