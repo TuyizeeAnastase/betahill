@@ -19,3 +19,5 @@
  - run the project by `npm run start`
 
 ## Deployment
+
+-https://brave-archimedes-dbda4b.netlify.app/
