@@ -6,13 +6,13 @@ class Header extends React.Component{
         return (
           <div classname="bg-green-300">
             <div className="fixed flex items-center justify-between bg-green-300 static">
-              <div className="flex flex-row ml-9 mt-3.5 mr-40 mb-3.5">
+              <div className="flex flex-row ml-9 mt-3.5 mr-52 mb-3.5">
                 <a href="/#">
                   <img alt="logo" src="../../../images/logo.png" className="h-6 w-6"></img>
                 </a>
                 <h2 className="text-blue-600 ml-3.5">betahills</h2>
               </div>
-              <div className="flex-row-reverse ml-96 mt-3.5 mb-3.5 text-base leading-5 tracking-widest non-italic  font-normal mr-5 h-5 text-blue-600">
+              <div className="flex-row-reverse ml-96 mt-3.5 mb-3.5 text-base leading-5 tracking-widest non-italic  font-normal mr-7 h-5 text-blue-600">
                 <a href="/#" className="mx-5">About</a>
                 <a href="/#" className="mx-5">Process</a>
                 <a href="/#" className="mx-5">Solutions</a>
