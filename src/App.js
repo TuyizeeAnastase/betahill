@@ -5,6 +5,7 @@ import Process from './components/processSection';
 import Solution from './components/solutionProcess';
 import CaseStudies from './components/caseStudies';
 import Impacts from './components/Impacts';
+import Contact from './components/Contacts';
 
 const App=()=>{
   return (
@@ -15,6 +16,7 @@ const App=()=>{
       <Solution />
       <CaseStudies />
       <Impacts />
+      <Contact />
     </div>
   );
 }
