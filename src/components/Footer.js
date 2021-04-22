@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer=()=>{
     return (
-        <div className="bg-blue-700">
+        <div style={{backgroundColor:"#0100CD", color:"#FFFFFF"}}>
           <div className="flex justify-between">
              <div className="flex h-24 ml-8 mt-8 flex-row ">
                <h3 className="mr-4 w-44">Musterstraße 1212345 Berlin</h3>
