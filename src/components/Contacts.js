@@ -4,7 +4,7 @@ import style from './style/style1';
 const Contact=()=>{
   const [hover, setHover] = useState(false);
     return (
-        <div style={{backgroundColor:"#96D2AA"}}>
+        <div style={{backgroundColor:"#96D2AA"}} >
       <div className="flex">
         <div className="flex ml-24 mt-20 text-justify w-5/12 h-24 font-medium non-italic text-6xl leading-none "
         style={{
@@ -15,10 +15,7 @@ const Contact=()=>{
         Want to know more?
         Get in touch. 
         </div>
-        <button className="relative text-blue-600 border-2 border-blue-600 text-center mt-96 ml-32 mb-28 w-44 h-12 hover:text-gray-50 hover:bg-green-300"
-        style={{
-          border:"#0100CD",
-        }}
+        <button className="relative border-b-2 border-blue-900 text-blue-600 border-2 border-blue-600 text-center mt-96 ml-32 mb-28 w-44 h-12 hover:text-gray-50 hover:bg-green-300"
         
         onMouseEnter={
           ()=>{

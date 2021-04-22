@@ -20,11 +20,8 @@ const Hero=()=>{
           marginTop:"5rem",
           marginleft:"25rem"
         }}>
-        <button className="text-blue-600 border-2 border-blue-600 text-center mt-96 ml-16 mb-28 w-32 h-12 hover:text-gray-50" 
+        <button className="border-b-2 border-blue-900  text-blue-600 border-2 border-blue-600 text-center mt-96 ml-16 mb-28 w-32 h-12 hover:text-gray-50" 
 
-        style={{
-          border:"#0100CD"
-        }}
         
         onMouseEnter={
           ()=>{

@@ -5,7 +5,7 @@ class Header extends React.Component{
     render(){
         return (
           <div >
-            <div className="fixed flex items-center justify-between bg-green-300 static" style={{width:"100%",backgroundColor:"#96D2AA"}}>
+            <div className="border-b-2 border-blue-900 fixed flex items-center justify-between bg-green-300 static" style={{width:"100%",backgroundColor:"#96D2AA"}}>
               <div className="flex flex-row ml-9 mt-3.5 mr-52 mb-3.5">
                 <a href="/#">
                   <img alt="logo" src="../../../images/logo.png" className="h-6 w-6"></img>
