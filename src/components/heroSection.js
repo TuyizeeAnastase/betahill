@@ -6,11 +6,10 @@ const Hero=()=>{
   return (
     <div style={{width:"100%",backgroundColor:"#96D2AA"}}>
       <div className="flex">
-        <div className="ml-24 mt-20 text-justify w-6/12 h-24 font-medium non-italic text-6xl leading-none " 
+        <div className="ml-24 mt-20 text-justify w-6/12 h-24 font-medium non-italic text-6xl leading-none" 
         style={{
           marginleft:"5.625rem",
           marginTop:"15.5625rem",
-          marginRight:"10rem",
           marginBottom:"20rem",
           color:"#0100CD"
         }}>

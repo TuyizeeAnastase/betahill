@@ -2,7 +2,7 @@ import React from 'react';
 
 const Solution=()=>{
     return (
-        <div 
+        <div  
         style={{
             backgroundColor:"#E5E5E5",
             marginTop:"0px",

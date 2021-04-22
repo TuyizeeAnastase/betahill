@@ -9,7 +9,7 @@ const Footer=()=>{
                <h3 className="w-36">info@betahills.com +49(0) 151 100 321</h3>
              </div>
              <div className="mt-8 flex-row-reverse">
-              <h3 className="mr-8 w-32">© 2020 betahills Imprint / Privacy</h3>
+              <h3 className="mr-20 w-32">© 2020 betahills Imprint / Privacy</h3>
              </div>
           </div>
         </div>
