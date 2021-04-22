@@ -7,10 +7,12 @@ import CaseStudies from './components/caseStudies';
 import Impacts from './components/Impacts';
 import Contact from './components/Contacts';
 import Footer from './components/Footer';
+import { BrowserRouter } from 'react-router-dom';
 
 const App=()=>{
   return (
-    <div className="w-full">
+    <BrowserRouter>
+    <div className="-mr-14">
       <Header />
       <About />
       <Process />
@@ -20,6 +22,7 @@ const App=()=>{
       <Contact />
       <Footer />
     </div>
+    </BrowserRouter>
   );
 }
 

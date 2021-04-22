@@ -3,7 +3,7 @@ import React from 'react';
 const Impacts=()=>{
     return (
         <div style={{backgroundColor:"#E5E5E5"}}>
-           <div className="font-semibold  text-4xl tracking-wider leading-relaxed mt-20 ml-24 mr-14 w-4/12"
+           <div className="flex font-semibold  text-4xl tracking-wider leading-relaxed mt-20 ml-24 mr-14 w-4/12"
            style={{
             marginTop:"5rem",
             marginLeft:"5.625rem",
